@@ -1,5 +1,5 @@
 import React from 'react'
-import Site from '../component/Site'
+import Site from './Site'
 
 class TripList extends React.Component{
 

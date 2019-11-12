@@ -1,7 +1,7 @@
 import React from 'react'
-import Site from '../component/Site'
-import NewSiteForm from '../component/NewSiteForm'
-import SiteSearch from '../component/SiteSearch'
+import Site from './Site'
+import NewSiteForm from './NewSiteForm'
+import SiteSearch from './SiteSearch'
 
 class SiteList extends React.Component{
     state = {
